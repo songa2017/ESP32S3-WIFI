@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+ESP32S3-WIFI/.visualgdb/
+ESP32S3-WIFI/.vs/
+ESP32S3-WIFI/build/
